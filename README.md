@@ -6,9 +6,12 @@ An app that will help you find things at home.
 
 <img src='lost.png' width=80%>
 
-This app will use your phones camera to find your keys, phone, remote controller etc. 
+An image classification project that we classify objects that go missing the most like remote controller, glasses, keys, phones on silent :) 
 
-For data we will have many pictures of items that get lost frequently. 
+For data I will have many pictures of items that get lost frequently. 
+
+
+This project then can be expanded in an app that will help you find stuff you lost using phones camera
 
 It is important that algorithm will be able to spot an object from all angels and even if it sees a small proportion of it buried in the couch.
 
